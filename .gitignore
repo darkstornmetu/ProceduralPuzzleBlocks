@@ -1,0 +1,11 @@
+
+/Temp
+/obj
+/Library
+/Logs
+/.idea
+*.csproj
+*.sln
+/UserSettings
+/Assets/06_Essentials/Sirenix
+/Recordings
