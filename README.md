@@ -1,6 +1,6 @@
 # Procedural Puzzle Blocks Generator
 
-![PuzzleBlock](https://github.com/user-attachments/assets/42ac92f7-b75c-4fae-8c53-17e530768f7c)
+![proceduralGeneration](https://github.com/user-attachments/assets/9e81b9a6-00bf-495d-b8a4-07e87b0cd40d)
 
 This project implements a procedural generation algorithm to create unique and engaging puzzle levels in a grid-based game. It ensures variability and complexity using flexible traversal strategies, randomized patterns, and contiguous piece generation. The procedural generation algorithm is managed by the `LevelGenerator` class, responsible for creating puzzle pieces within a grid-based level. The process begins with initializing parameters like grid size and piece count, determined by the selected difficulty level. 
 
